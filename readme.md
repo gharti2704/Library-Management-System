@@ -4,9 +4,7 @@
 
 1. Create a database with name "library".
 
-2. Import database.sql file.
-
-3.Run the script http://localhost/Library Management System
+2. Import database.sql file into your database.
 
 For User:
 Open Your browser and type “http://localhost/Library Management System/Member”
